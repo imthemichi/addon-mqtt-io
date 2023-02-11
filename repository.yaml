@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Test Repository fpr mqtt io
+url: 'https://github.com/imthemichi/addon-mqtt-io'
+maintainer: Awesome Maintainer <michi@streber24.de>
